@@ -1,0 +1,19 @@
+{
+  "name": "namreactproj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:Nizamph/Namaste-React.git"
+  },
+  "author": "Nizam P H",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:Nizamph/Namaste-React.git/issues"
+  },
+  "homepage": "git@github.com:Nizamph/Namaste-React.git#readme"
+}
