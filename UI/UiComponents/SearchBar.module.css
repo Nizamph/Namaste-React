@@ -1,0 +1,17 @@
+.search {
+  height: 31px;
+  border: thin solid #9a9a9a;
+  border-radius: 3px;
+  width: 346px;
+  padding-left: 3px;
+  margin-right: 20px;
+}
+
+.button {
+  background-color: rgb(10, 10, 70);
+  color: white;
+  border-radius: 8px;
+  padding: 8px;
+  border: none;
+  margin-left: 3px;
+}
